@@ -1,0 +1,40 @@
+#!/bin/bash
+param=$@
+#DIR=/root/program/hamster2-repo/orte/test/mpi
+DIR=/usr/local/hamster/soft/openmpi-1.6.4/orte/test/mpi
+
+#program=abort
+#program=bad_exit
+#program=bcast_loop
+
+#program=connect
+#program=crisscross #-np 2
+#program=debugger  # not mpi program
+#program=delayed_abort
+#program=hello
+#program=hello_barrier
+#program=hello_nodename
+#program=hello_output
+#program=info_spawn
+#program=loop_child
+#program=loop_spawn  #####spawn
+#program=mpi_info  ##no
+#program=mpi_no_op
+#program=mpi_spin
+#program=multi_abort
+#program="parallel_r8  /tmp/tmp.log"  #-np 8
+
+#program=slave
+
+
+#---not exactly consistence------------------
+
+#program=intercomm_create  #MPI_Comm_spawn
+#program=concurrent_spawn   #MPI_Comm_spawn
+#program=early_abort
+#program=hello_show_help
+#program=init-exit77
+program=simple_spawn  #MPI_Comm_spawn
+hamster -v -np 2  $DIR/$program 
+
+
