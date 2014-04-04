@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/mtt/!svn/ver/1599/trunk/client
+END
+bquery.pl
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/mtt/!svn/ver/1352/trunk/client/bquery.pl
+END
+mongobquery.pl
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/mtt/!svn/ver/1546/trunk/client/mongobquery.pl
+END
+mtt
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/mtt/!svn/ver/1599/trunk/client/mtt
+END
+mtt-submit
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/mtt/!svn/ver/668/trunk/client/mtt-submit
+END
+breport.pl
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/mtt/!svn/ver/1487/trunk/client/breport.pl
+END
+mtt-lock-server
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/mtt/!svn/ver/1297/trunk/client/mtt-lock-server
+END
+mtt-relay
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/mtt/!svn/ver/1385/trunk/client/mtt-relay
+END

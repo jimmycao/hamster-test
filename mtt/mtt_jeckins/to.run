@@ -1,0 +1,4 @@
+rm -rf mtt-tmp
+mkdir mtt-tmp
+
+./client/mtt --scratch mtt-tmp --file hamster.ini --verbose --print-time

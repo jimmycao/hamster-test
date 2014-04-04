@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/mtt/!svn/ver/1584/trunk/lib/MTT/Test/Build
+END
+NPB_OMPI_Tests.pm
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/mtt/!svn/ver/1243/trunk/lib/MTT/Test/Build/NPB_OMPI_Tests.pm
+END
+Shell.pm
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/mtt/!svn/ver/1243/trunk/lib/MTT/Test/Build/Shell.pm
+END
+Trivial.pm
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/mtt/!svn/ver/1482/trunk/lib/MTT/Test/Build/Trivial.pm
+END
+Noop.pm
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/mtt/!svn/ver/1066/trunk/lib/MTT/Test/Build/Noop.pm
+END
+Intel_OMPI_Tests.pm
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/mtt/!svn/ver/1584/trunk/lib/MTT/Test/Build/Intel_OMPI_Tests.pm
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/mtt/!svn/ver/1580/trunk/lib/MTT/Common/SCM
+END
+SVN.pm
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/mtt/!svn/ver/1217/trunk/lib/MTT/Common/SCM/SVN.pm
+END
+Unknown.pm
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/mtt/!svn/ver/1198/trunk/lib/MTT/Common/SCM/Unknown.pm
+END
+Git.pm
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/mtt/!svn/ver/1562/trunk/lib/MTT/Common/SCM/Git.pm
+END
+Mercurial.pm
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/mtt/!svn/ver/1580/trunk/lib/MTT/Common/SCM/Mercurial.pm
+END

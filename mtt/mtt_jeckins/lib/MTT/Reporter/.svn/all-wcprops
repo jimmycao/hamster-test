@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/mtt/!svn/ver/1623/trunk/lib/MTT/Reporter
+END
+TextFile.pm
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/mtt/!svn/ver/1611/trunk/lib/MTT/Reporter/TextFile.pm
+END
+Email.pm
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/mtt/!svn/ver/1440/trunk/lib/MTT/Reporter/Email.pm
+END
+MTTDatabase.pm
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/mtt/!svn/ver/1581/trunk/lib/MTT/Reporter/MTTDatabase.pm
+END
+MTTMongodb.pm
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/mtt/!svn/ver/1623/trunk/lib/MTT/Reporter/MTTMongodb.pm
+END
+IRC.pm
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/mtt/!svn/ver/1098/trunk/lib/MTT/Reporter/IRC.pm
+END
+ParsableTextfile.pm
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/mtt/!svn/ver/1243/trunk/lib/MTT/Reporter/ParsableTextfile.pm
+END
+INIFile.pm
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/mtt/!svn/ver/1243/trunk/lib/MTT/Reporter/INIFile.pm
+END
+HTMLReport.pm
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/mtt/!svn/ver/1610/trunk/lib/MTT/Reporter/HTMLReport.pm
+END
+MTTGDS.pm
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/mtt/!svn/ver/1367/trunk/lib/MTT/Reporter/MTTGDS.pm
+END

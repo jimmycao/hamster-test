@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/mtt/!svn/ver/1601/trunk/lib/MTT/Test/Specify
+END
+Simple.pm
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/mtt/!svn/ver/1601/trunk/lib/MTT/Test/Specify/Simple.pm
+END
+Noop.pm
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/mtt/!svn/ver/1066/trunk/lib/MTT/Test/Specify/Noop.pm
+END

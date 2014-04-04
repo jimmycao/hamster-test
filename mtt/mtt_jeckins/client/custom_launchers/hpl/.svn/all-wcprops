@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/mtt/!svn/ver/1358/trunk/client/custom_launchers/hpl
+END
+bcreate_conf.pl
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/mtt/!svn/ver/1358/trunk/client/custom_launchers/hpl/bcreate_conf.pl
+END
+vbench.sh
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/mtt/!svn/ver/1352/trunk/client/custom_launchers/hpl/vbench.sh
+END

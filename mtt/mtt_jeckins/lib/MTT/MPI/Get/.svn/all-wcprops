@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/mtt/!svn/ver/1627/trunk/lib/MTT/MPI/Get
+END
+SVN.pm
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/mtt/!svn/ver/1119/trunk/lib/MTT/MPI/Get/SVN.pm
+END
+Download.pm
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/mtt/!svn/ver/1380/trunk/lib/MTT/MPI/Get/Download.pm
+END
+LAM_Snapshot.pm
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/mtt/!svn/ver/1243/trunk/lib/MTT/MPI/Get/LAM_Snapshot.pm
+END
+Copytree.pm
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/mtt/!svn/ver/1119/trunk/lib/MTT/MPI/Get/Copytree.pm
+END
+Noop.pm
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/mtt/!svn/ver/1614/trunk/lib/MTT/MPI/Get/Noop.pm
+END
+AlreadyInstalled.pm
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/mtt/!svn/ver/1243/trunk/lib/MTT/MPI/Get/AlreadyInstalled.pm
+END
+Tarball.pm
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/mtt/!svn/ver/385/trunk/lib/MTT/MPI/Get/Tarball.pm
+END
+SCM.pm
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/mtt/!svn/ver/1119/trunk/lib/MTT/MPI/Get/SCM.pm
+END
+OMPI_Snapshot.pm
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/mtt/!svn/ver/1627/trunk/lib/MTT/MPI/Get/OMPI_Snapshot.pm
+END

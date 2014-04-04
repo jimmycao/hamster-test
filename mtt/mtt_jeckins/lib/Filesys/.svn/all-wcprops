@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/mtt/!svn/ver/1281/trunk/lib/Filesys
+END
+README.mtt
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/mtt/!svn/ver/1216/trunk/lib/Filesys/README.mtt
+END
+MANIFEST
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/mtt/!svn/ver/1216/trunk/lib/Filesys/MANIFEST
+END
+DiskFree.pm
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/mtt/!svn/ver/1281/trunk/lib/Filesys/DiskFree.pm
+END
+Makefile.PL
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/mtt/!svn/ver/1216/trunk/lib/Filesys/Makefile.PL
+END
+Changes
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/mtt/!svn/ver/1216/trunk/lib/Filesys/Changes
+END
+test.pl
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/mtt/!svn/ver/1216/trunk/lib/Filesys/test.pl
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/mtt/!svn/ver/1216/trunk/lib/Filesys/README
+END
